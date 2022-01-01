@@ -1,16 +1,5 @@
-# bmi
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-01-01 at 07 00 54](https://user-images.githubusercontent.com/87872088/147844059-51e6f76b-eccd-4722-abaf-8b36abca0d5e.png)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-01-01 at 06 59 55](https://user-images.githubusercontent.com/87872088/147844068-b03ea212-aba2-4628-a20e-f3e344e358f9.png)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-01-01 at 07 01 23](https://user-images.githubusercontent.com/87872088/147844077-921a4c63-0a2a-4bb0-91f4-e60528ba6a62.png)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-01-01 at 07 01 41](https://user-images.githubusercontent.com/87872088/147844087-34e860d0-c2a8-498d-bea4-b4644783286a.png)
+![Simulator Screen Shot - iPhone 13 Pro Max - 2022-01-01 at 07 02 08](https://user-images.githubusercontent.com/87872088/147844097-79331b0c-85ef-4c17-a503-106e4a58a873.png)
